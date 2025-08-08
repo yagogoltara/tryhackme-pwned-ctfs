@@ -1,5 +1,5 @@
 # Bolt - Writeup
-![bolt image](https://tryhackme-images.s3.amazonaws.com/room-icons/d2a747d195d4607cfd296eb2cffb7af1.png)
+![bolt image](./imgs/bolt.png)
 
 ## About
 This room is about Bolt CMS and it can be exploited using Authenticated Remote Code Execution.
